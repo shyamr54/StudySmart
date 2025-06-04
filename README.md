@@ -1,5 +1,4 @@
-# StudySmartBuddy
-
+# StudySmart
 An AI-powered study assistant that helps transform PDFs and notes into interactive study materials.
 
 ## Features
